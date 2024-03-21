@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">creditCardCheck</string>
+    <string name="enterName">Enter name</string>
+    <string name="enterCardNum">Card num</string>
+    <string name="enterCCV">ccv</string>
+    <string name="date">exp date</string>
+    <string name="card_text">This card is the property of XYZ Bank. If found, please return to XYZ Bank, 123 Main St, Anytown, USA.\n24/7 Customer Service: 1-800-123-4567</string>
+</resources>
